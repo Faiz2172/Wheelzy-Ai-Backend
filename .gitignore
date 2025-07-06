@@ -1,0 +1,46 @@
+car_embeddings_cache.pkl
+recommendation_advanced.log
+car_embeddings_cache.pkl
+recommendation_advanced.log
+car_embeddings_cache.pkl
+recommendation_advanced.log
+venv/
+__pycache__/
+faiz/
+test_queries_script.py
+
+
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Coverage directory
+coverage/
+
+# Temporary files
+tmp/
+temp/
