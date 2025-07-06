@@ -1,0 +1,38 @@
+services:
+  - type: web
+    name: car-recommendation-api
+    env: python
+    pythonVersion: "3.10"
+    buildCommand: pip install --no-cache-dir --prefer-binary -r requirements.txt
+    startCommand: uvicorn app:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: HOST
+        value: 0.0.0.0
+      - key: PORT
+        value: 8000
+      - key: WORKERS
+        value: 1
+      - key: ALLOWED_ORIGINS
+        value: http://localhost:5173,http://localhost:3000,http://127.0.0.1:5173
+      - key: EMBEDDING_MODEL
+        value: all-MiniLM-L6-v2
+      - key: LOG_LEVEL
+        value: INFO
+      - key: CORS_ORIGINS
+        value: http://localhost:5173,http://localhost:3000,http://127.0.0.1:5173
+      - key: PYTHONPATH
+        value: .
+      - key: PYTHONUNBUFFERED
+        value: 1
+      - key: GUNICORN_TIMEOUT
+        value: 120
+      - key: GUNICORN_WORKERS
+        value: 1
+      - key: GUNICORN_BIND
+        value: 0.0.0.0:8000
+      - key: PIP_NO_CACHE_DIR
+        value: 1
+      - key: PIP_PREFER_BINARY
+        value: 1
+    healthCheckPath: /
+    autoDeploy: true 

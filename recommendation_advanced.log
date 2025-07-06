@@ -1,0 +1,116 @@
+2025-07-03 19:05:51,684 - app - INFO - Loaded 1267 cars from dataset
+2025-07-03 19:05:52,384 - app - INFO - Data preprocessing completed
+2025-07-03 19:05:52,384 - app - INFO - Creating new embeddings...
+2025-07-03 19:08:31,960 - app - INFO - Cached embeddings for future use
+2025-07-03 19:08:31,960 - app - INFO - Embeddings created successfully
+2025-07-03 19:08:31,960 - app - INFO - Car recommendation system initialized successfully
+2025-07-03 19:08:55,386 - app - INFO - Loaded 1267 cars from dataset
+2025-07-03 19:08:55,861 - app - INFO - Data preprocessing completed
+2025-07-03 19:08:55,979 - app - INFO - Loaded embeddings from cache
+2025-07-03 19:08:55,979 - app - INFO - Car recommendation system initialized successfully
+2025-07-03 19:09:14,477 - app - INFO - Query: 'Toyota Camry' | Results: 10 | Time: 0.257s
+2025-07-03 19:09:17,163 - app - INFO - Query: 'Honda Civic' | Results: 10 | Time: 0.155s
+2025-07-03 19:09:19,789 - app - INFO - Query: 'BMW X5' | Results: 10 | Time: 0.091s
+2025-07-03 19:09:22,459 - app - INFO - Query: 'Maruti Swift' | Results: 10 | Time: 0.123s
+2025-07-03 19:09:25,091 - app - INFO - Query: 'I want a fuel efficient family car' | Results: 10 | Time: 0.101s
+2025-07-03 19:09:27,774 - app - INFO - Query: 'Looking for a sporty car under 20 lakhs' | Results: 10 | Time: 0.132s
+2025-07-03 19:09:30,420 - app - INFO - Query: 'Need a diesel SUV for highway driving' | Results: 10 | Time: 0.105s
+2025-07-03 19:09:33,079 - app - INFO - Query: 'Best hybrid car for city driving' | Results: 10 | Time: 0.119s
+2025-07-03 19:09:35,719 - app - INFO - Query: 'automatic transmission sedan' | Results: 10 | Time: 0.093s
+2025-07-03 19:09:38,358 - app - INFO - Query: '7 seater SUV' | Results: 10 | Time: 0.094s
+2025-07-03 19:09:40,995 - app - INFO - Query: 'electric car' | Results: 10 | Time: 0.096s
+2025-07-03 19:09:43,641 - app - INFO - Query: 'manual transmission hatchback' | Results: 10 | Time: 0.096s
+2025-07-03 19:09:46,283 - app - INFO - Query: 'budget car under 5 lakhs' | Results: 10 | Time: 0.112s
+2025-07-03 19:09:48,927 - app - INFO - Query: 'luxury car above 50 lakhs' | Results: 10 | Time: 0.110s
+2025-07-03 19:09:51,591 - app - INFO - Query: 'mid range sedan 10-15 lakhs' | Results: 10 | Time: 0.117s
+2025-07-03 19:09:54,243 - app - INFO - Query: 'premium SUV 25-40 lakhs' | Results: 10 | Time: 0.114s
+2025-07-03 19:09:56,895 - app - INFO - Query: 'first car for college student' | Results: 10 | Time: 0.103s
+2025-07-03 19:09:59,540 - app - INFO - Query: 'family car for 6 people' | Results: 10 | Time: 0.104s
+2025-07-03 19:10:02,233 - app - INFO - Query: 'car for long distance travel' | Results: 10 | Time: 0.146s
+2025-07-03 19:10:04,886 - app - INFO - Query: 'city car for daily commute' | Results: 10 | Time: 0.121s
+2025-07-03 19:10:07,507 - app - INFO - Query: 'high performance car' | Results: 10 | Time: 0.086s
+2025-07-03 19:10:10,160 - app - INFO - Query: 'most fuel efficient car' | Results: 10 | Time: 0.111s
+2025-07-03 19:10:12,825 - app - INFO - Query: 'powerful engine car' | Results: 10 | Time: 0.124s
+2025-07-03 19:10:15,445 - app - INFO - Query: 'low maintenance car' | Results: 10 | Time: 0.085s
+2025-07-03 19:10:18,078 - app - INFO - Query: 'German luxury car' | Results: 10 | Time: 0.092s
+2025-07-03 19:10:20,707 - app - INFO - Query: 'Japanese reliable car' | Results: 10 | Time: 0.088s
+2025-07-03 19:10:23,316 - app - INFO - Query: 'Korean SUV' | Results: 10 | Time: 0.070s
+2025-07-03 19:10:26,047 - app - INFO - Query: 'Indian brand hatchback' | Results: 10 | Time: 0.178s
+2025-07-03 19:10:28,674 - app - INFO - Query: 'best car' | Results: 10 | Time: 0.084s
+2025-07-03 19:10:31,340 - app - INFO - Query: 'cheap and good' | Results: 10 | Time: 0.124s
+2025-07-03 19:10:33,972 - app - INFO - Query: 'something reliable' | Results: 10 | Time: 0.100s
+2025-07-03 19:10:36,624 - app - INFO - Query: 'car for new driver' | Results: 10 | Time: 0.116s
+2025-07-03 19:10:39,250 - app - INFO - Query: 'convertible sports car' | Results: 10 | Time: 0.093s
+2025-07-03 19:10:41,884 - app - INFO - Query: 'off road vehicle' | Results: 10 | Time: 0.089s
+2025-07-03 19:10:44,494 - app - INFO - Query: 'car with sunroof' | Results: 10 | Time: 0.080s
+2025-07-03 19:10:47,145 - app - INFO - Query: 'diesel automatic SUV with 7 seats' | Results: 10 | Time: 0.103s
+2025-07-03 19:10:50,064 - app - INFO - Evaluation completed: 0/5 correct, accuracy=0.00
+2025-07-03 19:14:14,984 - app - INFO - Query: 'I want a car under 20 lakh indian rupees' | Results: 10 | Time: 0.138s
+2025-07-03 19:14:42,331 - app - INFO - Query: 'I want a car under seven lakh indian rupees' | Results: 10 | Time: 0.188s
+2025-07-03 19:15:01,034 - app - INFO - Query: 'I want a car below seven lakh indian rupees' | Results: 10 | Time: 0.140s
+2025-07-03 19:15:15,548 - app - INFO - Query: 'I want a sporty car' | Results: 10 | Time: 0.124s
+2025-07-03 19:16:47,038 - app - INFO - Query: 'I want a car under 7 lakhs rupees' | Results: 10 | Time: 0.130s
+2025-07-03 19:17:07,803 - app - INFO - Query: 'I want a car under 7 lakhs rupees' | Results: 10 | Time: 0.168s
+2025-07-03 19:20:55,161 - app - INFO - Loaded 1267 cars from dataset
+2025-07-03 19:20:55,810 - app - INFO - Data preprocessing completed
+2025-07-03 19:20:55,871 - app - INFO - Loaded embeddings from cache
+2025-07-03 19:20:55,871 - app - INFO - Car recommendation system initialized successfully
+2025-07-03 19:20:56,308 - app - INFO - Query: 'I want a car under 7 lakhs rupees' | Results: 10 | Time: 0.416s
+2025-07-03 19:21:01,432 - app - INFO - Query: 'I want a car under 7 lakhs rupees' | Results: 10 | Time: 0.281s
+2025-07-03 19:21:30,714 - app - INFO - Loaded 1267 cars from dataset
+2025-07-03 19:21:31,102 - app - INFO - Data preprocessing completed
+2025-07-03 19:21:31,127 - app - INFO - Loaded embeddings from cache
+2025-07-03 19:21:31,127 - app - INFO - Car recommendation system initialized successfully
+2025-07-03 19:22:07,313 - app - INFO - Query: 'I want a car under 7 lakhs rupees' | Results: 10 | Time: 0.357s
+2025-07-03 19:27:33,208 - app - INFO - Loaded 1267 cars from dataset
+2025-07-03 19:27:33,565 - app - INFO - Data preprocessing completed
+2025-07-03 19:27:33,587 - app - INFO - Loaded embeddings from cache
+2025-07-03 19:27:33,620 - app - INFO - Car recommendation system initialized successfully
+2025-07-03 19:27:58,092 - app - INFO - Loaded 1267 cars from dataset
+2025-07-03 19:27:58,509 - app - INFO - Data preprocessing completed
+2025-07-03 19:27:58,516 - app - INFO - Loaded embeddings from cache
+2025-07-03 19:27:58,516 - app - INFO - Car recommendation system initialized successfully
+2025-07-03 19:28:26,003 - app - INFO - Loaded 1267 cars from dataset
+2025-07-03 19:28:26,610 - app - INFO - Data preprocessing completed
+2025-07-03 19:28:26,624 - app - INFO - Loaded embeddings from cache
+2025-07-03 19:28:26,624 - app - INFO - Car recommendation system initialized successfully
+2025-07-03 19:31:56,002 - app - ERROR - Error processing recommendation: 'CarRecommendationSystem' object has no attribute 'model'
+2025-07-03 19:33:59,512 - app - INFO - Loaded 1267 cars from dataset
+2025-07-03 19:33:59,874 - app - INFO - Data preprocessing completed
+2025-07-03 19:33:59,888 - app - INFO - Loaded embeddings from cache
+2025-07-03 19:33:59,888 - app - INFO - Car recommendation system initialized successfully
+2025-07-03 19:34:49,329 - app - INFO - Loaded 1267 cars from dataset
+2025-07-03 19:34:49,718 - app - INFO - Data preprocessing completed
+2025-07-03 19:34:49,728 - app - INFO - Loaded car embeddings from cache.
+2025-07-03 19:34:49,728 - app - INFO - Car recommendation system initialized successfully
+2025-07-03 19:35:12,709 - app - INFO - Loaded 1267 cars from dataset
+2025-07-03 19:35:13,155 - app - INFO - Data preprocessing completed
+2025-07-03 19:35:13,155 - app - INFO - Loaded car embeddings from cache.
+2025-07-03 19:35:13,155 - app - INFO - Car recommendation system initialized successfully
+2025-07-03 19:36:02,350 - app - INFO - Query: I want a car under 7 lakhs rupees | Top Recommendation: {'Make': 'Maruti Suzuki', 'Model': 'Eeco', 'Variant': '7 Str', 'Body_Type': 'MPV', 'Fuel_Type': 'Petrol', 'Power': '74PS@6000RPM', 'Ex-Showroom_Price': 'Rs. 3,80,573', 'ARAI_Certified_Mileage': '15 km/litre', 'Seating_Capacity': '7.0', 'description': 'the maruti suzuki eeco 7 str is a mpv vehicle powered by petrol engine delivering 74ps6000rpm power with 101nm3000rpm torque offering 15 kmlitre fuel efficiency seating 7.0 people priced at rs. 3,80,573 keywords petrol gasoline performance budget', 'score': 0.4484546184539795}
+2025-07-03 19:37:30,268 - app - INFO - Query: I want a car under 10 lakhs rupees | Top Recommendation: {'Make': 'Maruti Suzuki', 'Model': 'Alto K10', 'Variant': 'Lxi', 'Body_Type': 'Hatchback', 'Fuel_Type': 'Petrol', 'Power': '68PS@6000rpm', 'Ex-Showroom_Price': 'Rs. 3,77,588', 'ARAI_Certified_Mileage': '24.07 km/litre', 'Seating_Capacity': '5.0', 'description': 'the maruti suzuki alto k10 lxi is a hatchback vehicle powered by petrol engine delivering 68ps6000rpm power with 90nm3500rpm torque offering 24.07 kmlitre fuel efficiency seating 5.0 people priced at rs. 3,77,588 keywords hatchback compact city economical petrol gasoline performance budget', 'score': 0.4819578528404236}
+2025-07-03 19:41:17,472 - app - INFO - Query: I want a car under 10 lakhs rupees | Top Recommendation: {'Make': 'Maruti Suzuki', 'Model': 'Alto K10', 'Variant': 'Lxi', 'Body_Type': 'Hatchback', 'Fuel_Type': 'Petrol', 'Power': '68PS@6000rpm', 'Ex-Showroom_Price': 'Rs. 3,77,588', 'ARAI_Certified_Mileage': '24.07 km/litre', 'Seating_Capacity': '5.0', 'description': 'the maruti suzuki alto k10 lxi is a hatchback vehicle powered by petrol engine delivering 68ps6000rpm power with 90nm3500rpm torque offering 24.07 kmlitre fuel efficiency seating 5.0 people priced at rs. 3,77,588 keywords hatchback compact city economical petrol gasoline performance budget', 'score': 0.4819578528404236}
+2025-07-03 19:44:12,276 - app - INFO - Query: I want a car under 15 rupees and it should be 7 seater | Top Recommendation: {'Make': 'Mahindra', 'Model': 'Scorpio', 'Variant': 'S7 140 2Wd', 'Body_Type': 'SUV', 'Fuel_Type': 'Diesel', 'Power': '140PS@3750rpm', 'Ex-Showroom_Price': 'Rs. 13,60,668', 'ARAI_Certified_Mileage': '15.4 km/litre', 'Seating_Capacity': '9.0', 'description': 'the mahindra scorpio s7 140 2wd is a suv vehicle powered by diesel engine delivering 140ps3750rpm power with 320nm1500-2800rpm torque offering 15.4 kmlitre fuel efficiency seating 9.0 people priced at rs. 13,60,668 keywords suv sport utility off-road spacious diesel fuel efficient torque budget', 'score': 0.47047659754753113}
+2025-07-03 19:51:45,984 - app - INFO - Query: I want car of make Scorpio | Top Recommendation: {'Make': 'Mahindra', 'Model': 'Scorpio', 'Variant': 'S9 2Wd', 'Body_Type': 'SUV', 'Fuel_Type': 'Diesel', 'Power': '140PS@3750rpm', 'Ex-Showroom_Price': 'Rs. 14,23,710', 'ARAI_Certified_Mileage': '15.4 km/litre', 'Seating_Capacity': '9.0', 'description': 'the mahindra scorpio s9 2wd is a suv vehicle powered by diesel engine delivering 140ps3750rpm power with 320nm1500-2800rpm torque offering 15.4 kmlitre fuel efficiency seating 9.0 people priced at rs. 14,23,710 keywords suv sport utility off-road spacious diesel fuel efficient torque budget', 'score': 0.5352866649627686}
+2025-07-03 19:54:46,566 - app - INFO - Query: I want car of make Mahindra | Top Recommendation: {'Make': 'Mahindra', 'Model': 'Thar', 'Variant': 'Crde', 'Body_Type': 'SUV', 'Fuel_Type': 'Diesel', 'Power': '105 Bhp@ 3800 rpm', 'Ex-Showroom_Price': 'Rs. 9,59,860', 'ARAI_Certified_Mileage': '13 km/litre', 'Seating_Capacity': '6.0', 'description': 'the mahindra thar crde is a suv vehicle powered by diesel engine delivering 105 bhp 3800 rpm power with 247nm1800-2000rpm torque offering 13 kmlitre fuel efficiency seating 6.0 people priced at rs. 9,59,860 keywords suv sport utility off-road spacious diesel fuel efficient torque budget', 'score': 0.641646683216095}
+2025-07-03 19:58:26,032 - app - INFO - Loaded 1267 cars from dataset
+2025-07-03 19:58:26,728 - app - INFO - Data preprocessing completed
+2025-07-03 19:58:26,763 - app - INFO - Loaded car embeddings from cache.
+2025-07-03 19:58:26,763 - app - INFO - Car recommendation system initialized successfully
+2025-07-03 20:00:46,832 - app - INFO - Query: I want car of make Mahindra | Top Recommendation: {'Make': 'Mahindra', 'Model': 'Thar', 'Variant': 'Crde', 'Body_Type': 'SUV', 'Fuel_Type': 'Diesel', 'Power': '105 Bhp@ 3800 rpm', 'Ex-Showroom_Price': 'Rs. 9,59,860', 'ARAI_Certified_Mileage': '13 km/litre', 'Seating_Capacity': '6.0', 'description': 'the mahindra thar crde is a suv vehicle powered by diesel engine delivering 105 bhp 3800 rpm power with 247nm1800-2000rpm torque offering 13 kmlitre fuel efficiency seating 6.0 people priced at rs. 9,59,860 keywords suv sport utility off-road spacious diesel fuel efficient torque budget', 'score': 0.641646683216095}
+2025-07-03 20:04:40,712 - app - INFO - Query: I want car of make Honda | Top Recommendation: {'Make': 'Honda', 'Model': 'City', 'Variant': 'V Mt Petrol', 'Body_Type': 'Sedan', 'Fuel_Type': 'Petrol', 'Power': '119PS@6600rpm', 'Ex-Showroom_Price': 'Rs. 10,65,900', 'ARAI_Certified_Mileage': '17.8 km/litre', 'Seating_Capacity': '5.0', 'description': 'the honda city v mt petrol is a sedan vehicle powered by petrol engine delivering 119ps6600rpm power with 145nm4600rpm torque offering 17.8 kmlitre fuel efficiency seating 5.0 people priced at rs. 10,65,900 keywords sedan comfort luxury family petrol gasoline performance budget', 'score': 0.5872805118560791}
+2025-07-03 20:18:01,996 - app - INFO - Query: I want car of Honda | Top Recommendation: {'Make': 'Honda', 'Model': 'City', 'Variant': 'V Mt Petrol', 'Body_Type': 'Sedan', 'Fuel_Type': 'Petrol', 'Power': '119PS@6600rpm', 'Ex-Showroom_Price': 'Rs. 10,65,900', 'ARAI_Certified_Mileage': '17.8 km/litre', 'Seating_Capacity': '5.0', 'description': 'the honda city v mt petrol is a sedan vehicle powered by petrol engine delivering 119ps6600rpm power with 145nm4600rpm torque offering 17.8 kmlitre fuel efficiency seating 5.0 people priced at rs. 10,65,900 keywords sedan comfort luxury family petrol gasoline performance budget', 'score': 0.569527268409729}
+2025-07-03 20:28:29,167 - app - INFO - Loaded 1267 cars from dataset
+2025-07-03 20:28:29,514 - app - INFO - Data preprocessing completed
+2025-07-03 20:28:29,529 - app - INFO - Loaded car embeddings from cache.
+2025-07-03 20:28:29,529 - app - INFO - Car recommendation system initialized successfully
+2025-07-03 20:33:38,802 - app - INFO - Query: I want car of Tata and the showroom price should be below 12 lakhs | Top Recommendation: {'Make': 'Tata', 'Model': 'Tiago', 'Variant': 'Revotron Xza Plus Dual Tone', 'Body_Type': 'Hatchback', 'Fuel_Type': 'Petrol', 'Power': '86PS@6000rpm', 'Ex-Showroom_Price': 'Rs. 6,60,000', 'ARAI_Certified_Mileage': '24 km/litre', 'Seating_Capacity': '5.0', 'description': 'the tata tiago revotron xza plus dual tone is a hatchback vehicle powered by petrol engine delivering 86ps6000rpm power with 114nm3300rpm torque offering 24 kmlitre fuel efficiency seating 5.0 people priced at rs. 6,60,000 keywords hatchback compact city economical petrol gasoline performance budget', 'score': 0.5590348243713379}
+2025-07-03 20:35:07,366 - app - INFO - Loaded 1267 cars from dataset
+2025-07-03 20:35:07,702 - app - INFO - Data preprocessing completed
+2025-07-03 20:35:07,720 - app - INFO - Loaded car embeddings from cache.
+2025-07-03 20:35:07,721 - app - INFO - Car recommendation system initialized successfully
+2025-07-03 20:35:28,829 - app - INFO - Loaded 1267 cars from dataset
+2025-07-03 20:35:29,167 - app - INFO - Data preprocessing completed
+2025-07-03 20:35:29,183 - app - INFO - Loaded car embeddings from cache.
+2025-07-03 20:35:29,185 - app - INFO - Car recommendation system initialized successfully
+2025-07-03 20:36:50,791 - app - INFO - Query: I want car of Tata and the showroom price should be below 12 lakhs | Top Recommendation: {'Make': 'Tata', 'Model': 'Tiago', 'Variant': 'Revotron Xza Plus Dual Tone', 'Body_Type': 'Hatchback', 'Fuel_Type': 'Petrol', 'Power': '86PS@6000rpm', 'Ex-Showroom_Price': 'Rs. 6,60,000', 'ARAI_Certified_Mileage': '24 km/litre', 'Seating_Capacity': '5.0', 'description': 'the tata tiago revotron xza plus dual tone is a hatchback vehicle powered by petrol engine delivering 86ps6000rpm power with 114nm3300rpm torque offering 24 kmlitre fuel efficiency seating 5.0 people priced at rs. 6,60,000 keywords hatchback compact city economical petrol gasoline performance budget', 'score': 0.5590348243713379}
